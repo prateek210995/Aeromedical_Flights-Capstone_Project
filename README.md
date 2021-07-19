@@ -19,6 +19,7 @@ The accessibility to health and medical services for rural residents is reduced.
 
 ## Dashboard
 The Tableau dashboard provides insights into the current aeromedical service operations to bridge the gap between service providers and Federal Government. This includes insights on the number of flights per provider, flight’s operating locations, flight route tracking system, night and daytime flights, flight operations based on weather conditions, and predict the flight demand for the next few days based on the previous pattern and trend in flight operations.
+
 [Tableau Dashboard Link](https://public.tableau.com/app/profile/team.carpe.diem)
 
 ## [FW (aircrafts with the fixed wings)](https://github.com/IsmailovKamil/Capstone_Project/tree/main/RW)
