@@ -17,6 +17,9 @@ The accessibility to health and medical services for rural residents is reduced.
 - Develop flight tracker from/to Origin/Destination for flight hops and route analysis. 
 - Analyze duration and distance statistics for each tail number to find out data anomalies.
 
+## Dashboard
+[Tableau Dashboard](https://public.tableau.com/app/profile/team.carpe.diem)
+
 ## [FW (aircrafts with the fixed wings)](https://github.com/IsmailovKamil/Capstone_Project/tree/main/RW)
 The folder contains datasets, scripts, images, and Tableau dashboards realted to the aircrafts with the fixed wings.
 
